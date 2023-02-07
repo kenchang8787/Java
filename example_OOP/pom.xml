@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>kenchang8787.com</groupId>
-    <artifactId>oop</artifactId>
+    <artifactId>example_OOP</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

@@ -1,4 +1,4 @@
-package kenchang8787.com.entities;
+package kenchang8787.com;
 
 /**
  * The class is represents the concept of Inheritance,

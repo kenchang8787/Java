@@ -1,4 +1,4 @@
-package kenchang8787.com.entities;
+package kenchang8787.com;
 
 /**
  *  This class represents the concept of Encapsulation,

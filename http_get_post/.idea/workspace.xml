@@ -5,27 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a530568-c971-4d48-97a2-f65d2d57c9cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kenchang8787/com/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kenchang8787/com/Transcript.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../restful_api/src/main/java/kenchang8787/com/Transcript.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example_UnitTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example_UnitTest/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example_UnitTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example_UnitTest/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../example_UnitTest/src/main/java/kenchang8787/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../example_UnitTest/src/main/java/kenchang8787/com/Main.java" afterDir="false" />
@@ -57,14 +36,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "settings.saveactions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.saveactions&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="kenchang8787.com" />
